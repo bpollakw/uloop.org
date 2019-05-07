@@ -1,0 +1,8 @@
+.courier{
+	font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;font-weight: lighter
+}
+
+.center-img{
+	display: block;
+	margin: 0 auto;
+}

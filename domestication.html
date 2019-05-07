@@ -25,7 +25,7 @@
 </head>
 <body>
 
-    <div class="container">
+<div class="container">
         <a href="/#"><img style="width:200px;" src="img/uLoop.svg" alt="uLoop"></a>
         <div class="navbar">
     
@@ -58,10 +58,30 @@
 
         </div>  <!-- Navbar /div -->
         <div style="margin-top: 10px">
-            <h3>Home</h3>
-            <p>uLoop.org, a virtual repository of standardised DNA parts used with <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15625" target="_blank" alt="Loop paper">Loop</a> and uLoop assembly.<br />
+            <h3>Domestication</h3>
+            <p>
+                This refers to the process of making DNA sequences usable with Type IIS assembly systems. The requirements are: <br />
+                (<b>1</b>) that the sequence does not contain sites for the Type IIS restriction enzymes used in the assembly system, since this would interfere with the reaction. For Loop and uLoop. <b>BsaI</b> and <b>SapI</b> sites.<br />
+                (<b>2</b>), that flanking overhangs are added to the sequence to make it a <i>standard part</i>. These flanking overhangs have been predefined to provide further functionality.
+
+                <h3>Syntax</h3>
+                <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15625" target="_blank" alt="Loop paper">Loop</a> & uLoop follow the <a href="https://doi.org/10.1111/nph.13532" alt="Common syntax" target="_blank">common syntax</a> for standardised DNA components used in Type IIS assembly systems proposed in the plant field. This ensures that standard parts are interoperable with other Type IIS assembly systems as <a href="https://www.addgene.org/cloning/moclo/marillonnet/?gclid=CjwKCAiAhp_jBRAxEiwAXbniXSm8MOCFUcFgq1Uw9PQxTYjAQIYC1ExxYce4lVlabUnClH1A-fW5fRoCOIEQAvD_BwE" target="_blank" alt="MoClo">MoClo</a> and <a href="https://gbcloning.upv.es/" target="_blank" alt="GoldenBraid">GoldenBraid</a>, given that no <b>SapI</b> sites are present.<br />
+                The "common syntax" defines 12 overhangs for flanking subgenetic DNA sequences in accordance to a prototypical eukaryotic transcription unit.
             </p>
-        </div>  
+            <a href=""><img class="center-img" style="width: 550px" src="img/common-syntax.png" alt="Common Syntax"></a> 
+            <p>
+                <br />
+                For uLoop we will be using the following specification according to the common syntax:
+            </p>
+            <a href=""><img class="center-img" style="width: 550px" src="img/uLoop-sintax.svg" alt="Common Syntax"></a> 
+            
+            <h3>Recode2S</h3>
+            <p>
+                To help with the domestication of sequences, we have developed <a href="http://recode2s.herokuapp.com" target="_blank" alt="Recode2S">Recode2S</a>, an application to simplify searching for restriction sites and adding overhangs.
+            </p>
+
+        </div>
+
     </div> <!-- Container /div -->
 </body>
 </html>
