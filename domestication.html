@@ -77,9 +77,11 @@
 
             <h3>Recode2S</h3>
             <p>
-                To help with the domestication of sequences, we have developed <a href="http://recode2s.herokuapp.com" target="_blank" alt="Recode2S">Recode2S</a>, an application to simplify searching for restriction sites and adding overhangs. Recode2S is also frame-aware, in order to avoid changing codons by selecting silent mutaitions if the site is not in the reading-frame of the CDS.
+                To help with the domestication of sequences, we have developed <a href="http://recode2s.herokuapp.com" target="_blank" alt="Recode2S">Recode2S</a>, an application to simplify searching for restriction sites and adding overhangs. Recode2S is also frame-aware, in order to avoid changing codons by selecting silent mutations if the site is not in the reading-frame of the CDS.
                 <br />
-                If the sequence does not contain BsaI and SapI sites continue to the next section. Otherwise, read through the rest of the document and go to the last section.
+                <b>Important</b> The output of Recode2S shows how your sequence should look like once domesticated as a L0 standard part. From this output, we will use the region between (and including) the flanking overhangs without the BsaI sites.
+                <br />
+                If the sequence does not contain internal BsaI and SapI sites continue to the next section. Otherwise, read through the rest of the document and go to the last section.
             </p>
             <h3>Domestication vector pL0R-lacZ</h3>
             <p>We have created a entry vector that enables domestication through overlap-dependent assembly as well as SapI-mediated restriction ligation. The pL0R-lacZ vector contains a lacZ negative selection marker, a spectynomycin resistance cassette and restriction sites for BsaI and SapI. SapI restriction releases lacZ for entry of domesticated sequences while at the same time reconstituting BsaI sites. Then, cloned sequences can be used in a L0 to L1 assembly. The vector contains unique nucleotide sequences (UNS) for sequencing and cPCR verification.</p>
