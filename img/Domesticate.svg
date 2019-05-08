@@ -2,21 +2,42 @@
 <!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="392px" height="155px" viewBox="0 0 392 155" enable-background="new 0 0 392 155" xml:space="preserve">
-<path fill="#AA70B2" stroke="#000000" stroke-miterlimit="10" d="M296.389,77.524c0,0.552-0.447,1-1,1H96.396c-0.552,0-1-0.448-1-1
-	V59.126c0-0.552,0.448-1,1-1h198.992c0.553,0,1,0.448,1,1V77.524z"/>
+	 width="392px" height="181px" viewBox="0 0 392 181" enable-background="new 0 0 392 181" xml:space="preserve">
+<path fill="#AA70B2" stroke="#000000" stroke-miterlimit="10" d="M296.389,77.524c0,0.552-0.447,1-1,1H96.396c-0.552,0-1-0.447-1-1
+	V59.126c0-0.552,0.448-1,1-1h198.993c0.553,0,1,0.448,1,1V77.524L296.389,77.524z"/>
 <path fill="#A3A3A3" d="M102.125,77.059c0,0.522-0.415,0.946-0.927,0.946h-4.521c-0.512,0-0.927-0.423-0.927-0.946V59.566
 	c0-0.522,0.415-0.945,0.927-0.945h4.521c0.512,0,0.927,0.423,0.927,0.945V77.059z"/>
 <text transform="matrix(1 0 0 1 152.3364 71.0835)" font-family="'MyriadPro-Regular'" font-size="12">Target sequence</text>
 <polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="107.334,50.365 110.577,53.608 96.149,53.608 90.26,47.314 
 	"/>
-<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="285.6,84.563 282.357,81.319 296.784,81.319 302.674,87.614 
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="285.6,84.562 282.357,81.318 296.784,81.318 302.674,87.613 
 	"/>
-<text transform="matrix(0.9374 0.3483 -0.3483 0.9374 5.5435 16.8027)" font-family="'MyriadPro-Regular'" font-size="12">AAGCTCTTCATCC</text>
+<text transform="matrix(0.9374 0.3483 -0.3483 0.9374 5.5435 16.8022)" font-family="'MyriadPro-Regular'" font-size="12">AAGCTCTTCATCC</text>
 <text transform="matrix(-0.9107 -0.4131 0.4131 -0.9107 386.6582 122.7715)" font-family="'MyriadPro-Regular'" font-size="12">TTGCTCTTCTTCG</text>
 <text transform="matrix(0.9113 0.4117 -0.4117 0.9113 281.0781 102.8047)" font-family="'MyriadPro-Regular'" font-size="12">(Reverse complement)</text>
-<text transform="matrix(1 0 0 1 73.6606 92.0049)" font-family="'MyriadPro-Regular'" font-size="12">Overhang</text>
+<text transform="matrix(1 0 0 1 73.6606 92.0059)" font-family="'MyriadPro-Regular'" font-size="12">Overhang</text>
 <text transform="matrix(1 0 0 1 268.6602 52.3384)" font-family="'MyriadPro-Regular'" font-size="12">Overhang</text>
-<path fill="#A3A3A3" d="M296.115,77.065c0,0.522-0.415,0.946-0.928,0.946h-4.52c-0.513,0-0.928-0.423-0.928-0.946V59.572
-	c0-0.522,0.415-0.945,0.928-0.945h4.52c0.513,0,0.928,0.423,0.928,0.945V77.065z"/>
+<path fill="#A3A3A3" d="M296.115,77.065c0,0.522-0.415,0.947-0.928,0.947h-4.521c-0.513,0-0.929-0.424-0.929-0.947V59.572
+	c0-0.522,0.416-0.945,0.929-0.945h4.521c0.513,0,0.928,0.423,0.928,0.945V77.065z"/>
+<path fill="#AA70B2" stroke="#000000" stroke-miterlimit="10" d="M296.389,176.576c0,0.553-0.447,1-1,1H96.396c-0.552,0-1-0.447-1-1
+	v-18.397c0-0.551,0.448-0.999,1-0.999h198.993c0.553,0,1,0.448,1,0.999V176.576L296.389,176.576z"/>
+<path fill="#A3A3A3" d="M102.125,176.111c0,0.522-0.415,0.946-0.927,0.946h-4.521c-0.512,0-0.927-0.423-0.927-0.946v-17.492
+	c0-0.522,0.415-0.944,0.927-0.944h4.521c0.512,0,0.927,0.422,0.927,0.944V176.111z"/>
+<text transform="matrix(1 0 0 1 152.3364 170.1406)" font-family="'MyriadPro-Regular'" font-size="12">Target sequence</text>
+<path fill="#A3A3A3" d="M296.115,176.117c0,0.522-0.415,0.947-0.928,0.947h-4.521c-0.513,0-0.929-0.424-0.929-0.947v-17.492
+	c0-0.522,0.416-0.944,0.929-0.944h4.521c0.513,0,0.928,0.422,0.928,0.944V176.117z"/>
+<path fill="#C37E60" stroke="#000000" stroke-miterlimit="10" d="M317.008,160.248c0.12,0,0.241,0.002,0.363,0l-0.084,7.412
+	l-0.081,7.406c-0.131,0-0.262-0.002-0.388-0.004l-18.449-8.047L317.008,160.248z"/>
+<path fill="#C37E60" stroke="#000000" stroke-miterlimit="10" d="M93.333,167.016l-18.449,8.047
+	c-0.126,0.002-0.257,0.004-0.388,0.004l-0.081-7.406l-0.084-7.412c0.122,0.002,0.243,0,0.363,0L93.333,167.016z"/>
+<text transform="matrix(1 0 0 1 56.6226 146.3594)" font-family="'MyriadPro-Regular'" font-size="12">SapI site</text>
+<g>
+	<path d="M204.033,123.456l-5.574,6.299l-5.435-6.312c-0.424-0.49-1.162-0.548-1.65-0.123c-0.49,0.419-0.545,1.156-0.124,1.65
+		l6.312,7.332c0.219,0.252,0.539,0.402,0.875,0.402c0.343,0.002,0.662-0.14,0.884-0.393l6.466-7.309
+		c0.427-0.483,0.382-1.222-0.103-1.653C205.2,122.923,204.464,122.966,204.033,123.456"/>
+	<path d="M199.619,131.583l0.026-21.563c0.004-0.646-0.521-1.169-1.168-1.169c-0.644-0.002-1.166,0.521-1.172,1.167l-0.028,21.563
+		c0,0.645,0.522,1.172,1.167,1.176C199.091,132.755,199.617,132.232,199.619,131.583"/>
+</g>
+<text transform="matrix(1 0 0 1 211.2637 125.084)" font-family="'Helvetica'" font-size="10">PCR</text>
+<text transform="matrix(1 0 0 1 56.7261 20.0278)" font-family="'Helvetica'" font-size="10">Tailed-oligonucleotide</text>
 </svg>
