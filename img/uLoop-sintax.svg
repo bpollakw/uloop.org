@@ -38,7 +38,7 @@
 <rect x="53.007" y="46.764" fill="#FFFFFF" width="26.536" height="12.568"/>
 <text transform="matrix(1 0 0 1 52.1489 55.9951)" font-family="'HelveticaNeue-Bold'" font-size="6.5767">TGAC</text>
 <rect x="79.543" y="46.764" fill="#FFFFFF" width="26.536" height="12.568"/>
-<text transform="matrix(1 0 0 1 81.6733 55.9951)"><tspan x="0" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">TCC</tspan><tspan x="13.765" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767" letter-spacing="11">C</tspan><tspan x="30.259" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">TACT</tspan></text>
+<text transform="matrix(1 0 0 1 81.6733 55.9951)"><tspan x="0" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">TCC</tspan><tspan x="13.765" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767" letter-spacing="11">C</tspan><tspan x="30.26" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">TACT</tspan></text>
 <text transform="matrix(1 0 0 1 194.3984 53.5283)" font-family="'HelveticaNeue-Bold'" font-size="5.2614">AGCC</text>
 <rect x="218.822" y="46.763" fill="none" stroke="#FFFFFF" stroke-width="0.658" stroke-linejoin="round" stroke-miterlimit="10" width="34.828" height="10.776"/>
 <text transform="matrix(1 0 0 1 178.3633 49.7314)" font-family="'HelveticaNeue-Italic'" font-size="5.2614">Met</text>
@@ -76,8 +76,8 @@
 <text transform="matrix(1 0 0 1 115.1719 6.0996)" font-family="'HelveticaNeue-Bold'" font-size="6.5767">TSS</text>
 <text transform="matrix(1 0 0 1 305.0186 21.9741)" font-family="'HelveticaNeue-Bold'" font-size="6.5767">PAS</text>
 <polyline points="318.068,29.109 318.131,28.999 314.653,22.975 307.697,22.975 304.218,28.999 304.282,29.109 318.068,29.109 "/>
-<text transform="matrix(1 0 0 1 212.0664 56.1938)" font-family="'HelveticaNeue-Bold'" font-size="5.2614">AGTT</text>
-<text transform="matrix(1 0 0 1 215.3701 51.1562)" font-family="'HelveticaNeue-Italic'" font-size="4.6037">Gly</text>
+<text transform="matrix(1 0 0 1 212.0664 56.1938)" font-family="'HelveticaNeue-Bold'" font-size="5.2614">AGGTT</text>
+<text transform="matrix(1 0 0 1 215.3711 51.1562)" font-family="'HelveticaNeue-Italic'" font-size="4.6037">Gly</text>
 <line fill="#E72000" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" x1="208.001" y1="56.321" x2="216.335" y2="46.321"/>
 <text transform="matrix(1 0 0 1 21.9463 149.0381)" font-family="'HelveticaNeue-Medium'" font-size="6">GGAG</text>
 <text transform="matrix(1 0 0 1 261.7803 149.0391)"><tspan x="0" y="0" font-family="'HelveticaNeue-Medium'" font-size="6">GCT</tspan><tspan x="12.444" y="0" font-family="'HelveticaNeue-Medium'" font-size="6" letter-spacing="8">T</tspan><tspan x="24.624" y="0" font-family="'HelveticaNeue-Medium'" font-size="6">          </tspan><tspan x="41.304" y="0" font-family="'HelveticaNeue-Medium'" font-size="6" letter-spacing="24"> </tspan><tspan x="67.319" y="0" font-family="'HelveticaNeue-Medium'" font-size="6">CGCT</tspan></text>
@@ -88,7 +88,7 @@
 <path fill="none" stroke="#E71900" stroke-width="0.8383" stroke-miterlimit="10" d="M193.493,57.293
 	c0,0.354-0.491,0.641-1.098,0.641h-25.804c-0.606,0-1.098-0.287-1.098-0.641v-6.721c0-0.353,0.492-0.639,1.098-0.639h25.804
 	c0.606,0,1.098,0.286,1.098,0.639V57.293z"/>
-<text transform="matrix(1 0 0 1 230.2891 55.9951)"><tspan x="0" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">TTC</tspan><tspan x="12.91" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767" letter-spacing="7">G</tspan><tspan x="25.044" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">(*)GCT</tspan><tspan x="45.497" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767" letter-spacing="9">T</tspan><tspan x="58.966" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">GGT</tspan><tspan x="72.968" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767" letter-spacing="28">A</tspan><tspan x="105.607" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">CGCT</tspan></text>
+<text transform="matrix(1 0 0 1 230.2891 55.9951)"><tspan x="0" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">TTC</tspan><tspan x="12.91" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767" letter-spacing="7">G</tspan><tspan x="25.045" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">(*)GCT</tspan><tspan x="45.497" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767" letter-spacing="9">T</tspan><tspan x="58.966" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">GGT</tspan><tspan x="72.967" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767" letter-spacing="28">A</tspan><tspan x="105.607" y="0" font-family="'HelveticaNeue-Bold'" font-size="6.5767">CGCT</tspan></text>
 <path fill="none" stroke="#E71900" stroke-width="0.6435" stroke-miterlimit="10" d="M227.517,58.298
 	c0,0.354-0.289,0.641-0.646,0.641h-15.206c-0.357,0-0.646-0.287-0.646-0.641v-6.721c0-0.353,0.289-0.639,0.646-0.639h15.206
 	c0.357,0,0.646,0.286,0.646,0.639V58.298z"/>
@@ -152,29 +152,31 @@
 	<text transform="matrix(1 0 0 1 76.1948 196.7139)" fill="#E71300" font-family="'Courier'" font-size="8">A</text>
 	<text transform="matrix(1 0 0 1 139.7002 196.7139)" fill="#E71300" font-family="'Courier'" font-size="8">C</text>
 	<text transform="matrix(1 0 0 1 200.9648 196.7148)" fill="#E71300" font-family="'Courier'" font-size="8">D</text>
-	<text transform="matrix(1 0 0 1 262.2275 196.7148)" fill="#E71300" font-family="'Courier'" font-size="8">E</text>
-	<text transform="matrix(1 0 0 1 323.4912 196.7148)" fill="#E71300" font-family="'Courier'" font-size="8">F</text>
-	<text transform="matrix(1 0 0 1 84.5342 208.8174)" font-family="'Helvetica'" font-size="6">Promoter + 5’UTR</text>
-	<text transform="matrix(1 0 0 1 150.9971 208.8174)" font-family="'Helvetica'" font-size="6">CDS (no STOP)</text>
-	<text transform="matrix(1 0 0 1 275.9971 208.8174)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="6">3’UT</tspan><tspan x="12.668" y="0" font-family="'Helvetica'" font-size="6">R</tspan><tspan x="16.881" y="0" font-family="'Helvetica'" font-size="6"> + Terminator</tspan></text>
+	<text transform="matrix(1 0 0 1 262.2285 196.7148)" fill="#E71300" font-family="'Courier'" font-size="8">E</text>
+	<text transform="matrix(1 0 0 1 323.4922 196.7148)" fill="#E71300" font-family="'Courier'" font-size="8">F</text>
+	<text transform="matrix(1 0 0 1 84.5342 208.8164)" font-family="'Helvetica'" font-size="6">Promoter + 5’UTR</text>
+	<text transform="matrix(1 0 0 1 150.9971 208.8164)" font-family="'Helvetica'" font-size="6">CDS (no STOP)</text>
+	<text transform="matrix(1 0 0 1 275.9971 208.8164)"><tspan x="0" y="0" font-family="'Helvetica'" font-size="6">3’UT</tspan><tspan x="12.668" y="0" font-family="'Helvetica'" font-size="6">R</tspan><tspan x="16.881" y="0" font-family="'Helvetica'" font-size="6"> + Terminator</tspan></text>
 	<polygon fill="#00E769" stroke="#000000" stroke-width="2.6274" stroke-miterlimit="10" points="234.442,199.719 246.879,194.426 
 		234.442,189.129 216.757,189.129 226.301,194.636 217.496,199.719 	"/>
-	<text transform="matrix(1 0 0 1 215.4971 208.8174)" font-family="'Helvetica'" font-size="6">CTAG/3xSTOP</text>
+	<text transform="matrix(1 0 0 1 215.4971 208.8164)" font-family="'Helvetica'" font-size="6">CTAG/3xSTOP</text>
 </g>
 <g>
-	<path fill="none" stroke="#03B900" stroke-miterlimit="10" stroke-dasharray="2.0257,2.0257" d="M164,57.333c0,0.552-0.448,1-1,1
-		h-26.333c-0.552,0-1-0.448-1-1v-7c0-0.552,0.448-1,1-1H163c0.552,0,1,0.448,1,1V57.333z"/>
+	<path fill="none" stroke="#03B900" stroke-miterlimit="10" stroke-dasharray="2.0257,2.0257" d="M134.981,57.333
+		c0,0.552-0.448,1-1,1h-26.333c-0.552,0-1-0.448-1-1v-7c0-0.552,0.448-1,1-1h26.333c0.552,0,1,0.448,1,1V57.333z"/>
 </g>
 <g>
 	<g>
-		<line fill="none" stroke="#03B900" stroke-miterlimit="10" x1="150.804" y1="58.526" x2="150.804" y2="59.526"/>
+		<line fill="none" stroke="#03B900" stroke-miterlimit="10" x1="121.786" y1="58.526" x2="121.786" y2="59.399"/>
 		
-			<line fill="none" stroke="#03B900" stroke-miterlimit="10" stroke-dasharray="2.0144,2.0144" x1="150.804" y1="61.54" x2="150.804" y2="124.993"/>
-		<line fill="none" stroke="#03B900" stroke-miterlimit="10" x1="150.804" y1="126" x2="150.804" y2="127"/>
+			<line fill="none" stroke="#03B900" stroke-miterlimit="10" stroke-dasharray="1.7406,1.7406" x1="121.786" y1="61.14" x2="121.786" y2="109.006"/>
+		<line fill="none" stroke="#03B900" stroke-miterlimit="10" x1="121.786" y1="109.876" x2="121.786" y2="110.75"/>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 144.793 134.0005)"><tspan x="0" y="0" font-family="'HelveticaNeue-Medium'" font-size="6">TBI</tspan><tspan x="-1.947" y="7.2" font-family="'HelveticaNeue-Medium'" font-size="6">2019</tspan></text>
+<text transform="matrix(1 0 0 1 116.7754 117.9902)"><tspan x="0" y="0" font-family="'HelveticaNeue-Medium'" font-size="6">TBI</tspan><tspan x="-1.947" y="7.2" font-family="'HelveticaNeue-Medium'" font-size="6">2019</tspan></text>
 <text transform="matrix(1 0 0 1 5.4268 131.3242)" font-family="'Helvetica'" font-size="6">Terminal-overhang</text>
 <text transform="matrix(1 0 0 1 312.5137 131.3247)" font-family="'Helvetica'" font-size="6">Terminal-overhang</text>
 <text transform="matrix(1 0 0 1 1.0176 198)" font-family="'HelveticaNeue-Medium'" font-size="6">For Loop &amp; uLoop</text>
+<text transform="matrix(1 0 0 1 111.252 149.042)" font-family="'HelveticaNeue-Medium'" font-size="6">TACT</text>
+<text transform="matrix(1 0 0 1 117.1748 139.3296)" fill="#E71300" font-family="'Courier'" font-size="8">B</text>
 </svg>
